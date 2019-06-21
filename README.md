@@ -1,2 +1,0 @@
-# THREEJSWORKING
-Created with CodeSandbox
